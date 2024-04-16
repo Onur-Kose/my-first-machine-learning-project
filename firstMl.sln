@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animalSelect", "animalSelect\animalSelect.csproj", "{F39770C9-2113-4F51-A14C-3C71BF720E70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "animalSelect", "animalSelect\animalSelect.csproj", "{F39770C9-2113-4F51-A14C-3C71BF720E70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLModel1_WebApi1", "MLModel1_WebApi1\MLModel1_WebApi1.csproj", "{ACCA3909-9756-41FD-9D2C-BBA3C68C2316}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F39770C9-2113-4F51-A14C-3C71BF720E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F39770C9-2113-4F51-A14C-3C71BF720E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F39770C9-2113-4F51-A14C-3C71BF720E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCA3909-9756-41FD-9D2C-BBA3C68C2316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCA3909-9756-41FD-9D2C-BBA3C68C2316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCA3909-9756-41FD-9D2C-BBA3C68C2316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCA3909-9756-41FD-9D2C-BBA3C68C2316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
